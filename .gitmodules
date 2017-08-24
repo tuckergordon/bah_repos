@@ -4,3 +4,6 @@
 [submodule "pandas_exercises"]
 	path = pandas_exercises
 	url = https://github.com/tuckergordon/pandas_exercises.git
+[submodule "2015labs/2015lab1"]
+	path = 2015labs/2015lab1
+	url = https://github.com/cs109/2015lab1.git
