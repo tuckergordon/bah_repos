@@ -7,3 +7,9 @@
 [submodule "2015labs/2015lab1"]
 	path = 2015labs/2015lab1
 	url = https://github.com/cs109/2015lab1.git
+[submodule "2015labs/2015lab2"]
+	path = 2015labs/2015lab2
+	url = https://github.com/cs109/2015lab2.git
+[submodule "2015labs/2015lab3"]
+	path = 2015labs/2015lab3
+	url = https://github.com/cs109/2015lab3.git
