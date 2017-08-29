@@ -16,3 +16,6 @@
 [submodule "2015labs/2015lab4"]
 	path = 2015labs/2015lab4
 	url = https://github.com/cs109/2015lab4.git
+[submodule "2015labs/2015lab5"]
+	path = 2015labs/2015lab5
+	url = https://github.com/cs109/2015lab5.git
